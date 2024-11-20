@@ -9,7 +9,7 @@ Na imagem abaixo está o diagrama onde contém o relacionamento das tabelas
 
 
 A única linguagem usada no projeto é o SQL.
-Na pasta "queries" tem a resolução de cada um dos problemas, sendo que cada arquivo ".sql" é a solução para cada item.
+a pasta "queries" contém as resoluições de cada um dos problemas, abaixo temos a relação de arquivo para as consultas.
 | Problema                                                          | Arquivo                   |
 | --------                                                          | -------                   | 
 | Listar todos Clientes que não tenham realizado uma compra         | Problema_Solucao_1.sql    |
